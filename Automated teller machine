@@ -1,4 +1,4 @@
-#calculator App
+#ATM
 
 import java.util.Scanner;
 public class Main {
